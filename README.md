@@ -1,4 +1,4 @@
-# Spur – AI Live Chat Support Agent
+# AI Live Chat Support Agent
 
 A production-ready AI-powered live chat application for customer support.
 
