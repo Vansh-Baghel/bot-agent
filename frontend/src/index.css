@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* Buttons should not be reset completely */
+button {
+  font-family: inherit;
+}
+
+/* Optional: smooth scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #3f3f46;
+  border-radius: 6px;
+}
